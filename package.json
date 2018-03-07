@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "request": "~2.34.0"
+    },
+    "description": "A JavaScript framework for the MediaWiki API.",
+    "homepage": "https://github.com/oliver-moran/mediawiki",
+    "keywords": [
+        "wikimedia",
+        "bot",
+        "library",
+        "api"
+    ],
+    "license": "GPL",
+    "main": "mediawiki.js",
+    "name": "mediawiki",
+    "version": "0.0.14"
+}
